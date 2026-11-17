@@ -1,0 +1,9 @@
+id,title,amount,category,date,notes
+1,Lunch at Cafe,250.0,Food,2026-09-25,Sandwich and iced latte
+2,Bus Ticket,120.0,Travel,2026-09-25,City bus commute
+3,Shopping Mall,800.0,Shopping,2026-09-24,Clothing & essentials
+4,Electricity Bill,1450.0,Bills,2026-09-20,Monthly utility bill
+5,Movie & Snacks,650.0,Entertainment,2026-09-18,Weekend cinema
+6,Grocery Mart,2150.0,Food,2026-09-15,Weekly family groceries
+7,Cab to Airport,780.0,Travel,2026-09-12,Business trip
+8,Online Course,1200.0,Education,2026-09-08,Coding masterclass
